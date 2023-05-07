@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/nav_home"
+    android:title="Ana Sayfa"
+    android:icon="@drawable/baseline_home_24" />
+    <item
+        android:id="@+id/nav_content"
+        android:title="İçerik ekle"/>
+    <item
+        android:id="@+id/nav_content_list"
+        android:title="İçerik Listesi"/>
+    <item
+        android:id="@+id/nav_add_news"
+        android:title="Duyuru Ekle" />
+    <item
+        android:id="@+id/nav_alumni_list"
+        android:title="Mezun Listesi"/>
+    <item
+        android:id="@+id/nav_account"
+        android:title="Profil"
+        android:icon="@drawable/baseline_person_24"/>
+    <item
+        android:id="@+id/nav_changePassword"
+        android:title="Şifre Değiştir"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Çıkış"
+        android:icon="@drawable/baseline_logout_24"/>
+
+</menu>
